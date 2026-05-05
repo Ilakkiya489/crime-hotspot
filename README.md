@@ -24,7 +24,7 @@ Open any of these files directly in your browser (no build step needed):
 
 ---
 
-## 🗺️ India Districts Covered (25)
+## 🗺️ India Districts Covered (700+)
 
 | ID | District | State |
 |----|----------|-------|
@@ -60,19 +60,19 @@ Open any of these files directly in your browser (no build step needed):
 
 ### ✅ India-Based Dataset & Model
 - 50,000 synthetic crime records based on Indian city patterns
-- District IDs 1–25 mapped to real Indian districts
+- District IDs  mapped to real Indian districts
 - Festive season crime peaks (Diwali Oct/Nov, Holi Mar, Summer Jun–Aug)
 
 ### ✅ India Map (Leaflet.js)
 - Map centered on India (lat 20.59, lng 78.96)
-- All 25 district markers with correct Indian coordinates
+- All 700+ district markers with correct Indian coordinates
 - Heatmap overlay reflecting India geography
 - Popup shows district name + state + risk details
 
 ### ✅ State → District Selection
 - Prediction form: select State first, then District populates
 - District dropdown shows real names (Mumbai, Delhi, etc.)
-- Internally sends district ID 1–25 to backend (API unchanged)
+- Internally sends district ID  to backend (API unchanged)
 
 ### ✅ Authentication System
 - `POST /auth/register` — username, email, password (hashed SHA-256)
