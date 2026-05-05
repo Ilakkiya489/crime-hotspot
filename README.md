@@ -53,7 +53,7 @@ Open any of these files directly in your browser (no build step needed):
 | 23 | Shimla | Himachal Pradesh |
 | 24 | Srinagar | Jammu & Kashmir |
 | 25 | Puducherry | Puducherry |
-
+some more .....
 ---
 
 ## 🔹 Features
@@ -108,7 +108,7 @@ Open any of these files directly in your browser (no build step needed):
 | GET | `/health` | Server status + model metrics |
 | POST | `/predict` | Predict risk for district/month/hour |
 | GET | `/history` | Last 50 predictions |
-| GET | `/districts` | All 25 districts with coords + names |
+| GET | `/districts` | All 700+  districts with coords + names |
 | POST | `/batch_predict` | Predict for multiple inputs |
 | GET | `/analytics` | Aggregated chart data for dashboard |
 | POST | `/auth/register` | Register new user |
